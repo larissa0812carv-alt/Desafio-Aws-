@@ -16,7 +16,7 @@ Etapas
 - Clique em "Launch Instance"
 - Aguarde o status "running"
 - Copie o IP público da instância
-- No terminal, conecte via SSH:
+- Conecte via SSH:
 
 Evidencias:
 <img width="578" height="381" alt="Conexao-Git " src="https://github.com/user-attachments/assets/d48ba166-9622-4024-95ef-137a1a0d9c71" />
