@@ -27,3 +27,6 @@ Evidencias:
 <img width="904" height="284" alt="tipo de instancia " src="https://github.com/user-attachments/assets/62c6f6ff-1519-49ed-bad8-480d8f7ad56f" />
 <img width="1342" height="681" alt="modelo da maquina " src="https://github.com/user-attachments/assets/de9910a9-1e93-4efd-a8d6-1483e85d950b" />
 <img width="1359" height="727" alt="Primeiro passo criação" src="https://github.com/user-attachments/assets/84c208ae-6da7-4a70-9665-d2fa0e57565f" />
+Desafio de arquitetura:
+d<img width="713" height="408" alt="Captura de tela 2025-09-13 223520" src="https://github.com/user-attachments/assets/7d356303-18eb-4582-b039-bd49be42852f" />
+
